@@ -4,6 +4,7 @@ theme:
   name: material
   palette:
     primary: brown
+    scheme: slate
 nav:
   - Home: index.md
   - Recipes: recipes.md
