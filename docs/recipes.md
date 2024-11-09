@@ -8,6 +8,10 @@
 
 Salt Fat Acid Heat
 
+### [Vegetable Soup](https://feedmephoebe.com/summer-detox-soup-recipe/)
+
+### [Meatballs](https://www.gimmesomeoven.com/meatball-recipe/)
+
 ## Baking
 
 ### [GF Chocolate Chip Cookies](https://meaningfuleats.com/the-best-gluten-free-chocolate-chip-cookies/)
