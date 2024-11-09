@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: cookingjournal
+site_url: https://dwillmott.github.io/cookingjournal
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Recipes: recipes.md
