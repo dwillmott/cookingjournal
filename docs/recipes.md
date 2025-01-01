@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## Cooking
 
 - [GF Chili](https://georgeats.com/recipes/fodmap-friendly-vegetarian-chilli/)
