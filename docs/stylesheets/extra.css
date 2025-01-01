@@ -1,11 +1,3 @@
-.terminal-mkdocs-side-panel{
-    min-width: 100px;
-    max-width: 100px;
-    width: 100px;
-}
-
-.terminal-mkdocs-sidebar{
-    min-width: 100px;
-    max-width: 100px;
-    width: 100px;
+.terminal-mkdocs-main-grid{
+    grid-template-columns: 2fr 9fr;
 }

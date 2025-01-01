@@ -4,6 +4,7 @@ theme:
   name: terminal
   features:
     - navigation.top.hide
+    - navigation.side.toc.hide
   palette: gruvbox_dark
 nav:
   - Log: index.md
