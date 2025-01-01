@@ -2,6 +2,7 @@ site_name: cookingjournal
 site_url: https://dwillmott.github.io/cookingjournal
 theme:
   name: terminal
+  features:
     - navigation.top.hide
   palette: gruvbox_dark
 nav:
