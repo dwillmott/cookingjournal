@@ -2,9 +2,8 @@ site_name: cookingjournal
 site_url: https://dwillmott.github.io/cookingjournal
 theme:
   name: terminal
-  palette:
-    primary: brown
-    scheme: slate
+    - navigation.top.hide
+  palette: gruvbox_dark
 nav:
   - Home: index.md
   - Recipes: recipes.md

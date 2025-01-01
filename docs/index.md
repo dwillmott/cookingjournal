@@ -1,4 +1,3 @@
-# cookingjournal
 
 | Date       | Thing I Cooked                            | Notes   |
 | ----       | --------------                            | -----   |
