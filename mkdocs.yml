@@ -6,5 +6,7 @@ theme:
     - navigation.top.hide
   palette: gruvbox_dark
 nav:
-  - Home: index.md
+  - Log: index.md
   - Recipes: recipes.md
+extra_css:
+  - stylesheets/extra.css
