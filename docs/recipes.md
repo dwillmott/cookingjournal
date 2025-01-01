@@ -12,6 +12,8 @@ Salt Fat Acid Heat
 
 ### [Meatballs](https://www.gimmesomeoven.com/meatball-recipe/)
 
+### [Chicken with Caramelized Lemon and Dates](https://www.alisoneroman.com/recipes/one-pot-chicken)
+
 ## Baking
 
 ### [GF Chocolate Chip Cookies](https://meaningfuleats.com/the-best-gluten-free-chocolate-chip-cookies/)
