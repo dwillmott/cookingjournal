@@ -1,0 +1,3 @@
+.terminal-mkdocs-main-grid{
+    grid-template-columns: 2fr 9fr;
+}
