@@ -3,4 +3,4 @@
 
 | Date       | Thing I Cooked                            | Notes   |
 | ----       | --------------                            | -----   |
-| 2024-11-07 | [Beef Stew](recipes.md/#gf-beef-stew)     | <ul><li>Forgot to buy celery, it was fine without it</li><li>Cooked it on high in the slow cooker for 3.5 hours instead of low for 6</li><li>Seemed extra fatty this time</li></ul> |
+| 2025-01-01 | Lemon Date Chicken     | <ul><li>Chicken probably needed more seasoning</li><li>Are you supposed to flip it in the pan or not?</li><li>Maybe 2 cups of water was too much, left a lot in the pan</li></ul> |
